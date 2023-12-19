@@ -10,7 +10,7 @@ This is a ETL assignment for Bent-Oak company.
 
 - I cleaned the dataFrames (that made by `.csv` files) and I figured out the structure of data and relation between dataFrames.
 
-- I tried to transform fact data (data that stored in `fact_data`) top join with other dataFrames by hierarchical fields.
+- I tried to transform fact data (data that stored in `fact_data`) to join with other dataFrames by hierarchical fields.
 
 ## Analysis
 
